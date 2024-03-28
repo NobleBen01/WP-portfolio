@@ -1,0 +1,179 @@
+[15-Mar-2024 10:46:14 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\includes\plugin-install.php on line 183
+[15-Mar-2024 10:48:19 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\includes\plugin-install.php on line 183
+[15-Mar-2024 10:52:30 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\includes\plugin-install.php on line 183
+[20-Mar-2024 07:31:25 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[20-Mar-2024 07:32:23 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[25-Mar-2024 13:02:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:02:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:02:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:02:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:02:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:02:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:02:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:02:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:10:18 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:22 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:26 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:37 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:39 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:43 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:43 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:44 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:44 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:44 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:44 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:46 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:48 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:48 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:48 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:48 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:48 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:50 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:10:56 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:11:04 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:11:04 UTC] PHP Parse error:  syntax error, unexpected token "," in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-config.php on line 101
+[25-Mar-2024 13:16:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:16:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:16:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:16:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:16:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:16:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:16:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:16:33 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:20:34 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:22:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:22:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:22:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:22:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:22:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:22:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:22:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 13:22:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 14:15:32 UTC] PHP Parse error:  syntax error, unexpected identifier "filter" in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\themes\astra\functions.php on line 194
+[25-Mar-2024 14:15:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[25-Mar-2024 14:15:32 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[25-Mar-2024 14:15:32 UTC] PHP Parse error:  syntax error, unexpected identifier "filter" in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\themes\astra\functions.php on line 194
+[25-Mar-2024 14:17:02 UTC] PHP Parse error:  syntax error, unexpected identifier "filter" in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\themes\astra\functions.php on line 194
+[25-Mar-2024 14:17:03 UTC] PHP Parse error:  syntax error, unexpected identifier "filter" in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\themes\astra\functions.php on line 194
+[25-Mar-2024 14:17:54 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "my_custom_mime_types" not found or invalid function name in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php:326
+Stack trace:
+#0 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#1 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\functions.php(3592): apply_filters('upload_mimes', Array, NULL)
+#2 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\media.php(4587): get_allowed_mime_types()
+#3 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\wpforms-lite\includes\admin\admin.php(94): wp_enqueue_media()
+#4 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(324): wpforms_admin_scripts('toplevel_page_w...')
+#5 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'toplevel_page_w...')
+#8 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\admin.php(239): require_once('C:\\Users\\dell\\L...')
+#9 {main}
+  thrown in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php on line 326
+[25-Mar-2024 14:17:55 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "my_custom_mime_types" not found or invalid function name in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php:326
+Stack trace:
+#0 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#1 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\functions.php(3592): apply_filters('upload_mimes', Array, NULL)
+#2 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\media.php(4587): get_allowed_mime_types()
+#3 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\wpforms-lite\includes\admin\admin.php(94): wp_enqueue_media()
+#4 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(324): wpforms_admin_scripts('toplevel_page_w...')
+#5 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#6 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#7 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\admin-header.php(118): do_action('admin_enqueue_s...', 'toplevel_page_w...')
+#8 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\admin.php(239): require_once('C:\\Users\\dell\\L...')
+#9 {main}
+  thrown in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php on line 326
+[25-Mar-2024 14:18:45 UTC] PHP Fatal error:  Uncaught TypeError: call_user_func_array(): Argument #1 ($callback) must be a valid callback, function "my_custom_mime_types" not found or invalid function name in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php:326
+Stack trace:
+#0 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(205): WP_Hook->apply_filters(Array, Array)
+#1 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\functions.php(3592): apply_filters('upload_mimes', Array, NULL)
+#2 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\media.php(4587): get_allowed_mime_types()
+#3 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\widgets\class-wp-widget-media.php(407): wp_enqueue_media()
+#4 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\widgets\class-wp-widget-media-audio.php(147): WP_Widget_Media->enqueue_admin_scripts()
+#5 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(324): WP_Widget_Media_Audio->enqueue_admin_scripts('')
+#6 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#7 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#8 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\wordpress-widgets.php(70): do_action('admin_print_scr...')
+#9 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(324): Elementor\WordPress_Widgets_Manager->before_enqueue_scripts('')
+#10 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters(NULL, Array)
+#11 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#12 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\core\editor\editor.php(353): do_action('elementor/edito...')
+#13 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->enqueue_scripts('')
+#14 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#15 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#16 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\script-loader.php(2262): do_action('wp_enqueue_scri...')
+#17 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(324): wp_enqueue_scripts('')
+#18 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#19 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#20 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\general-template.php(3052): do_action('wp_head')
+#21 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\editor-templates\editor-wrapper.php(31): wp_head()
+#22 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\core\editor\loader\v1\editor-v1-loader.php(110): include('C:\\Users\\dell\\L...')
+#23 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\core\editor\editor.php(163): Elementor\Core\Editor\Loader\V1\Editor_V1_Loader->print_root_template()
+#24 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(324): Elementor\Core\Editor\Editor->init('')
+#25 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php(348): WP_Hook->apply_filters('', Array)
+#26 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#27 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\admin.php(419): do_action('admin_action_el...')
+#28 C:\Users\dell\Local Sites\my-portfolio\app\public\wp-admin\post.php(12): require_once('C:\\Users\\dell\\L...')
+#29 {main}
+  thrown in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-includes\class-wp-hook.php on line 326
+[25-Mar-2024 14:19:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 14:19:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 14:19:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 14:19:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 14:19:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 14:19:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 14:19:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[25-Mar-2024 14:19:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:42:38 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:53:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:53:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:53:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:53:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:53:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:53:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:53:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 14:53:01 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:00:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:00:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:00:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:00:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:00:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:00:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:00:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:00:46 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:36:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:36:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:36:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:36:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:36:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:36:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:36:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[26-Mar-2024 15:36:50 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 08:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 08:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 08:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 08:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 08:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 08:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 08:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 08:10:20 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 13:31:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 13:31:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 13:31:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 13:31:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 13:31:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 13:31:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 13:31:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
+[27-Mar-2024 13:31:41 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\Users\dell\Local Sites\my-portfolio\app\public\wp-content\plugins\elementor\includes\managers\image.php on line 113
